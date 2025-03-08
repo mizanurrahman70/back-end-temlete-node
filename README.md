@@ -22,17 +22,18 @@ This is a simple Node.js application template that follows a modular pattern. It
 
 3.Set up environment variables:
 Create a .env file in the root directory and add your environment variables:
-PORT=3000
+
+```PORT=3000
 DB_URL=your-database-url
 Usage
 3.To start the application, run:
 
-node app.js
+```node app.js
 
 Project Structure
 The project is structured as follows:
 
-my-node-app/
+````my-node-app/
 ├── app.js
 ├── config/
 │   └── config.js
@@ -52,8 +53,8 @@ utils/: Utility functions used across the application
 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-License
+```License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Copy
+````
 This README file provides a basic overview of the project, instructions for installation and usage, and 
