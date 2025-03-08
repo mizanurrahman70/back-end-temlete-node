@@ -35,7 +35,7 @@ This is a simple Node.js application template that follows a modular pattern. It
 
 To start the application, run:
 ```bash
-node app.js
+npm run start:dev
 ```
 
 ## Project Structure
